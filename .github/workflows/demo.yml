@@ -30,4 +30,4 @@ jobs:
       - name: Run a multi-line script  
         run: |
           echo Hello github actions!  
-          Get Date
+          Get-Date
